@@ -1,0 +1,15 @@
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\bin\Debug\net9.0\FinalGPAProject.exe
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\bin\Debug\net9.0\FinalGPAProject.deps.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\bin\Debug\net9.0\FinalGPAProject.runtimeconfig.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\bin\Debug\net9.0\FinalGPAProject.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\bin\Debug\net9.0\FinalGPAProject.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\FinalGPAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\FinalGPAProject.AssemblyInfoInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\FinalGPAProject.AssemblyInfo.cs
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\FinalGPAProject.csproj.CoreCompileInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\FinalGPAProject.sourcelink.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\FinalGPAProject.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\refint\FinalGPAProject.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\FinalGPAProject.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\FinalGPAProject.genruntimeconfig.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\FinalGPAProject\obj\Debug\net9.0\ref\FinalGPAProject.dll
