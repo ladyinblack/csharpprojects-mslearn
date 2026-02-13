@@ -33,3 +33,6 @@ In this exercise, you'll use the assignment scores for each student to calculate
 ## Exercise 2: Calculate the average of the student's assignment scores
 In this exercise, you'll calculate and store the average of the assignment scores from each student.  Since you know the number of scored assignments for each student, the average is calculated by dividing the sum of the assignment scores by the number of assignments.  To store the averages, you'll be using the Decimal data type.
 
+## Exercise 3: Format the output using escaped character sequences
+In this exercise, you'll modify the console output from the previous exercise to achieve the reporting format specified by the teacher.
+
