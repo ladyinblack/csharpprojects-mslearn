@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalGPAProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ce5de10368fc53993edf2afdc61b0d5d3038af2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c6bb62c35478092f90c962a1a67588256550e2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalGPAProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalGPAProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
