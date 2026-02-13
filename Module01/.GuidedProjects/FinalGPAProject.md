@@ -29,3 +29,6 @@ In this exercise, you'll begin setting up variables needed to calculate a studen
 ## EXERCISE 2: Calculate the sums of credit hours and grade points
 In this exercise, you'll calculate and store the total number of credit hours and the total grade points earned for each course.  These values will later be used to calculate the GPA.  Since both the credit hours and grade values are represented as whole numbers, you'll store the sums using the Integer data type.
 
+## EXERCISE 3: Format the decimal output
+In this exercise, you'll calculate the final GPA and modify the console output to achieve the desired reporting format.  The GPA is equal to the sum of the total grade points divided by the sum of the total credit hours.
+
