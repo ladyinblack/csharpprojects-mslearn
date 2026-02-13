@@ -32,3 +32,7 @@ In this exercise, you'll calculate and store the total number of credit hours an
 ## EXERCISE 3: Format the decimal output
 In this exercise, you'll calculate the final GPA and modify the console output to achieve the desired reporting format.  The GPA is equal to the sum of the total grade points divided by the sum of the total credit hours.
 
+### Sub-exercise: Formatting the decimal output
+You might have noticed that decimal result contains many more digits than a standard GPA.  In this task, you'll manipulate the decimal GAP value so that only three digits are displayed.
+Ultimately, you want to display the first digit of the GPA, a decimal point, followed by the first two digits after the decimal.  You can achieve this format by using variables to store the leading and trailing digits respectively, and then printing them together using `Console.WriteLine()`.  You can use the math operations you learned to extract the leading and trailing digits.
+
