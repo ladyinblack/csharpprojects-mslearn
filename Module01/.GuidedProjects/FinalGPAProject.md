@@ -36,3 +36,6 @@ In this exercise, you'll calculate the final GPA and modify the console output t
 You might have noticed that decimal result contains many more digits than a standard GPA.  In this task, you'll manipulate the decimal GAP value so that only three digits are displayed.
 Ultimately, you want to display the first digit of the GPA, a decimal point, followed by the first two digits after the decimal.  You can achieve this format by using variables to store the leading and trailing digits respectively, and then printing them together using `Console.WriteLine()`.  You can use the math operations you learned to extract the leading and trailing digits.
 
+## EXERCISE 4: Format the output using escaped character sequences
+In this exercise, you'll modify the console output from the previous exercise to achieve the specified reporting format.
+
