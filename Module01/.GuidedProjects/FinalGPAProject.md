@@ -26,3 +26,6 @@ Psychology 101      4        3
 ## EXERCISE 1: Store the numeric grade values for each course
 In this exercise, you'll begin setting up variables needed to calculate a student's GPA.
 
+## EXERCISE 2: Calculate the sums of credit hours and grade points
+In this exercise, you'll calculate and store the total number of credit hours and the total grade points earned for each course.  These values will later be used to calculate the GPA.  Since both the credit hours and grade values are represented as whole numbers, you'll store the sums using the Integer data type.
+
