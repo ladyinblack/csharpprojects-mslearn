@@ -1,0 +1,15 @@
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\LargerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\LargerOfTwo.AssemblyInfoInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\LargerOfTwo.AssemblyInfo.cs
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\LargerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\LargerOfTwo.sourcelink.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\bin\Debug\net9.0\LargerOfTwo.exe
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\bin\Debug\net9.0\LargerOfTwo.deps.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\bin\Debug\net9.0\LargerOfTwo.runtimeconfig.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\bin\Debug\net9.0\LargerOfTwo.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\bin\Debug\net9.0\LargerOfTwo.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\LargerOfTwo.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\refint\LargerOfTwo.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\LargerOfTwo.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\LargerOfTwo.genruntimeconfig.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\LargerOfTwo\obj\Debug\net9.0\ref\LargerOfTwo.dll
