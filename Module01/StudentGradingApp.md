@@ -30,3 +30,6 @@ Jeong       95.4   A
 ### Exercise 1: Calculate the sum of each student's assignment scores
 In this exercise, you'll use the assignment scores for each student to calculate their current grade in the class.  To perform this calculation, you'll first sum the values of their assignment scores, and then calculate their average score (their current grade).
 
+## Exercise 2: Calculate the average of the student's assignment scores
+In this exercise, you'll calculate and store the average of the assignment scores from each student.  Since you know the number of scored assignments for each student, the average is calculated by dividing the sum of the assignment scores by the number of assignments.  To store the averages, you'll be using the Decimal data type.
+
