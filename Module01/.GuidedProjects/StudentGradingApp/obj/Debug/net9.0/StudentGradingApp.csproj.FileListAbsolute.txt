@@ -1,0 +1,15 @@
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\bin\Debug\net9.0\StudentGradingApp.exe
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\bin\Debug\net9.0\StudentGradingApp.deps.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\bin\Debug\net9.0\StudentGradingApp.runtimeconfig.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\bin\Debug\net9.0\StudentGradingApp.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\bin\Debug\net9.0\StudentGradingApp.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\StudentGradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\StudentGradingApp.AssemblyInfoInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\StudentGradingApp.AssemblyInfo.cs
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\StudentGradingApp.csproj.CoreCompileInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\StudentGradingApp.sourcelink.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\StudentGradingApp.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\refint\StudentGradingApp.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\StudentGradingApp.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\StudentGradingApp.genruntimeconfig.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\.GuidedProjects\StudentGradingApp\obj\Debug\net9.0\ref\StudentGradingApp.dll

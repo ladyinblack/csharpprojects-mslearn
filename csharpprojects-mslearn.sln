@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module01", "Module01", "{C0502800-E6E6-0726-BC2E-EF9B2CBD90D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".GuidedProjects", ".GuidedProjects", "{4048DDED-5BAF-A55E-48F8-0D275C5BB2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradingApp", "Module01\.GuidedProjects\StudentGradingApp\StudentGradingApp.csproj", "{040694E5-8009-A8FD-6353-63967A5F2FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040694E5-8009-A8FD-6353-63967A5F2FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040694E5-8009-A8FD-6353-63967A5F2FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040694E5-8009-A8FD-6353-63967A5F2FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040694E5-8009-A8FD-6353-63967A5F2FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4048DDED-5BAF-A55E-48F8-0D275C5BB2D9} = {C0502800-E6E6-0726-BC2E-EF9B2CBD90D4}
+		{040694E5-8009-A8FD-6353-63967A5F2FDC} = {4048DDED-5BAF-A55E-48F8-0D275C5BB2D9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7441BB2B-988F-4584-B470-8E3D11DBCA05}
+	EndGlobalSection
+EndGlobal
