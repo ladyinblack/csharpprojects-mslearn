@@ -1,0 +1,15 @@
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.exe
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.deps.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.runtimeconfig.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.AssemblyInfoInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.AssemblyInfo.cs
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.csproj.CoreCompileInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.sourcelink.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\refint\SubscriptionRenewal.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.genruntimeconfig.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\SubscriptionRenewal\obj\Debug\net9.0\ref\SubscriptionRenewal.dll
