@@ -1,0 +1,15 @@
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\bin\Debug\net9.0\FraudulentOrders.exe
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\bin\Debug\net9.0\FraudulentOrders.deps.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\bin\Debug\net9.0\FraudulentOrders.runtimeconfig.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\bin\Debug\net9.0\FraudulentOrders.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\bin\Debug\net9.0\FraudulentOrders.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\FraudulentOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\FraudulentOrders.AssemblyInfoInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\FraudulentOrders.AssemblyInfo.cs
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\FraudulentOrders.csproj.CoreCompileInputs.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\FraudulentOrders.sourcelink.json
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\FraudulentOrders.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\refint\FraudulentOrders.dll
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\FraudulentOrders.pdb
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\FraudulentOrders.genruntimeconfig.cache
+C:\Users\ronicas\Videos\MicrosoftLearn\csharpprojects-mslearn\Module01\FraudulentOrders\obj\Debug\net9.0\ref\FraudulentOrders.dll
